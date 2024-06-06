@@ -51,7 +51,6 @@ Untuk menggunakan Eva, kirimkan pesan ke nomor WhatsApp bot dengan format:
 - `!ask <pertanyaan>`: Ajukan pertanyaan apa pun.
 - `!cuaca <lokasi>`: Dapatkan informasi cuaca untuk lokasi tertentu.
 - `!berita`: Dapatkan berita terbaru (kategori default: umum).
-- `!berita <kategori>`: Dapatkan berita terbaru untuk kategori tertentu.
 - `!tekateki mulai`: Mulai permainan teka-teki baru.
 - `!tekateki jawab <jawaban>`: Jawab teka-teki yang sedang berlangsung.
 - `!help`: Tampilkan daftar perintah yang tersedia.
